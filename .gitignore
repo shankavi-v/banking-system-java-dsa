@@ -1,0 +1,15 @@
+# App-generated user data
+users_details.txt
+accounts_data.txt
+
+# Build output
+out/
+build/
+dist/
+*.class
+
+# IDE
+nbproject/private/
+.idea/
+*.iml
+.vscode/
